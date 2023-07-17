@@ -3,6 +3,19 @@
 # Project Title : Quality Prediction in a Mining Process
 / submitted to Upskill Campus /
 
+### Links to Dataset :
+
+
+Github link - https://github.com/Vishesh-tamrakar/Upskill_Quality_Prediction/blob/main/MiningProcess_Flotation_Plant_Database.csv
+
+Google Drive link - https://drive.google.com/file/d/1mZl1j2m_YiLFCSvduw0MpsBPkgJy396y/view
+
+### Links to Code :
+
+Github link - https://github.com/Vishesh-tamrakar/Upskill_Quality_Prediction/blob/main/UpSkill_Project.ipynb
+
+Google Colab link - https://colab.research.google.com/github/Vishesh-tamrakar/Upskill_Quality_Prediction/blob/main/UpSkill_Project.ipynb#scrollTo=s4sN-8bEtbbA
+
 ## CONTEXT
 
 With the help of the provided dataset from a flotation plant of a mining plant our main goal is to use this data to predict how much impurity is in the ore concentrate. As this impurity is measured every hour, if we can predict how much silica (impurity) is in the ore concentrate, we can help the engineers, giving them early information to take actions. Hence, they will be able to take corrective actions in advance (reduce impurity, if it is the case) and also help the environment (reducing the amount of ore that goes to tailings with the reduce of silica in the ore concentrate).
