@@ -1,6 +1,7 @@
 # Upskill_Quality_Prediction
 
 # Project Title : Quality Prediction in a Mining Process
+/ submitted to Upskill Campus /
 
 ## CONTEXT
 
