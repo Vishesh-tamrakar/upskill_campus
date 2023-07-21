@@ -20,7 +20,7 @@ Google Colab link - https://colab.research.google.com/github/Vishesh-tamrakar/Up
 
 With the help of the provided dataset from a flotation plant of a mining plant our main goal is to use this data to predict how much impurity is in the ore concentrate. As this impurity is measured every hour, if we can predict how much silica (impurity) is in the ore concentrate, we can help the engineers, giving them early information to take actions. Hence, they will be able to take corrective actions in advance (reduce impurity, if it is the case) and also help the environment (reducing the amount of ore that goes to tailings with the reduce of silica in the ore concentrate).
 
-Hence We have decided to work upon this Industrial manufacturing and production problem by using machine learning algorithms to perform the necessary predictions. 
+Hence We decided to work upon this Industrial manufacturing and production problem by using machine learning algorithms to perform the necessary predictions. 
 
 ## DATASET INFORMATION
 
@@ -29,8 +29,11 @@ The dataset was obtained from a mineral processing plant separating silica from 
 Each row of data consists of 23 measurements that can be categorized into four types:
 
 ●	raw materials (column 2-3);
+
 ●	environment variables (column 4-8);
+
 ●	process variables (column 9-22);
+
 ●	processed materials (column 23-24).
 
 Raw materials and processed materials were sampled on an hourly basis while the others were sampled every 20 second.
