@@ -38,6 +38,8 @@ Each row of data consists of 23 measurements that can be categorized into four t
 
 Raw materials and processed materials were sampled on an hourly basis while the others were sampled every 20 second.
 
+The first column shows time and date range (from march of 2017 until september of 2017).he second and third columns are quality measures of the iron ore pulp right before it is fed into the flotation plant. Column 4 until column 8 are the most important variables that impact the ore quality at the end of the process. From column 9 until column 22, we can see process data (level and air flow inside the flotation columns, which also impact ore quality. The last two columns are the final iron ore pulp quality measurement from the lab.
+
 ## INFERENCES FORMED
 
 -> % SILICA CONCENTRATION FORECAST TIME CALCULATION
